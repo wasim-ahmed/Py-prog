@@ -31,8 +31,8 @@ print("Message length is", len(msg))
 
 server = smtplib.SMTP('blrexchmbx001.techmahindra.com',465)
 server.set_debuglevel(1)
-user = 'WA00434454'
-pwd = 'feb@2018'
+user = 'username'
+pwd = 'password'
 server.ehlo()
 server.starttls()
 server.ehlo
