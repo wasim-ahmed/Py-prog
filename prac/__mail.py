@@ -2,7 +2,7 @@
 from smtplib import SMTP
 with SMTP("https://blrexchcas003.techmahindra.com/mapi/emsmdb/?MailboxId=6daa3959-3cf7-4a8b-aae7-a85c9840e659@techmahindra.com",25) as smtp:
 	print(smtp.noop())
-	WA00434454@TechMahindra.com
+	
 	blrexchmbx001.techmahindra.com
 '''
 
