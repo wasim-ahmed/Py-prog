@@ -1,2 +1,2 @@
 # Py-prog
-test python programs
+sample programs to learn Python
